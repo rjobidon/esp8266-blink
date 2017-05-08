@@ -17,4 +17,4 @@ void loop()
 }
 ```
 
-![ESP-8266](ESP-8266.jpg)
+![ESP-8266](Photo.jpg)

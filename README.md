@@ -1,3 +1,5 @@
+![ESP-8266](Photo.jpg)
+
 # ESP-8266 Blink
 
 This example shows the simplest thing you can do with an ESP-8266 to see physical output: it blinks the on-board LED. We use the ESP-8266 D1 Mini by WeMos.
@@ -16,5 +18,3 @@ void loop()
   delay(1000);
 }
 ```
-
-![ESP-8266](Photo.jpg)
